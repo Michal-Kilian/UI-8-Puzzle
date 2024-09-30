@@ -1,18 +1,5 @@
-## Getting Started
+# UI 8 Puzzle
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project represents the first assignment for the course Artifical Intelligence. It includes a working version of an 8 puzzle. An 8 puzzle game is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The objective of the game is to make moves until the desired final position is reached. This project is written entirely in the Java programming language.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project was completed on 28.10.2022.
